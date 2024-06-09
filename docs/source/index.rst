@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+win55.school - Công ty cờ bạc cung cấp các dịch vụ giải trí cá độ
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Win55 <https://win55.school/>`_ là công ty cờ bạc cung cấp các dịch vụ giải trí cá độ như: Casino trực tuyến, thể thao. Bên cạnh những sản phẩm cá cược xanh chín, chúng tôi luôn có những phần quà tặng và chương trình khuyến mãi dành cho hội viên của mình. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 438 Khương Đình, P.Hạ Đình, Q.Thanh Xuân, Hà Nội. 
 
-   This project is under active development.
+Phone: 098.751.9584. 
 
-Contents
---------
+Email: info@win55.school. 
 
-.. toctree::
+Website: https://win55.school/
 
-   usage
-   api
+#win55 #Win55 school #nhà cái Win55 #bigwin55 #win55 game #Win55 nhận 55k #win55 55k
